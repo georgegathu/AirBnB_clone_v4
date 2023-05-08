@@ -157,7 +157,7 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 George Gathu - [Github](https//github.com/georgegathu) / [Twitter](https://twitter.com/deejay_gathu254)   
-Ucheadaeze - [Github](https//github.com/Ucheadaeze) / [Gmail] (ucheigbokwe25@gmail.com)
+MaryAwish - [Github](https://github.com/MaryAwish) / [Gmail] (maryawish54@gmail.com)
 
 Second part of Airbnb: Joann Vuong
 ## License
